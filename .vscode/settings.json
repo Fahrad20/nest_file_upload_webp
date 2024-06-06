@@ -1,0 +1,34 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "explicit",
+    "source.organizeImports": "explicit"
+  },
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "eslint.validate": ["javascript", "javascriptreact", "typescript", "typescriptreact"],
+  "editor.linkedEditing": true,
+  "html.autoClosingTags": true,
+  "javascript.autoClosingTags": true,
+  "typescript.autoClosingTags": true,
+  "javascript.suggest.autoImports": true,
+  "typescript.suggest.autoImports": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "html.completion.attributeDefaultValue": "singlequotes",
+  "editor.glyphMargin": false,
+  "editor.scrollbar.vertical": "hidden",
+  "editor.bracketPairColorization.enabled": false,
+  "window.density.editorTabHeight": "compact",
+  "editor.accessibilitySupport": "off",
+  "window.commandCenter": false,
+  "editor.cursorBlinking": "expand",
+  "editor.cursorStyle": "line-thin",
+  "terminal.integrated.tabs.enabled": false,
+  "explorer.compactFolders": false,
+  "terminal.integrated.cursorStyle": "line",
+  "prettier.singleQuote": true,
+  "prettier.jsxSingleQuote": true
+}
